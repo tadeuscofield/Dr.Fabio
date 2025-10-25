@@ -82,7 +82,7 @@ export default function Orcamento({ pacienteId, pacienteNome }) {
     doc.text('ORÇAMENTO ODONTOLÓGICO', 105, 20, { align: 'center' });
 
     doc.setFontSize(12);
-    doc.text('Dr. Fábio Silva - CRO RJ 45678', 105, 30, { align: 'center' });
+    doc.text('Dr. Fábio Amaral - CRO RJ 45678', 105, 30, { align: 'center' });
 
     doc.setFontSize(10);
     doc.text(`Paciente: ${pacienteNome}`, 20, 50);

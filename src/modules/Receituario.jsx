@@ -55,7 +55,7 @@ export default function Receituario({ pacienteId, pacienteNome }) {
     doc.setFontSize(16);
     doc.text('RECEITUÁRIO ODONTOLÓGICO', 105, 20, { align: 'center' });
     doc.setFontSize(11);
-    doc.text('Dr. Fábio Silva - CRO RJ 45678', 105, 28, { align: 'center' });
+    doc.text('Dr. Fábio Amaral - CRO RJ 45678', 105, 28, { align: 'center' });
     doc.text('Especialista em Próteses Dentárias', 105, 34, { align: 'center' });
 
     doc.setFontSize(10);

@@ -1,4 +1,4 @@
-# Como Executar o Sistema - Dr. Fábio
+# Como Executar o Sistema - Dr. Fábio Amaral
 
 ## Passo a Passo
 
@@ -115,7 +115,7 @@ Os arquivos finais estarão na pasta `dist/`
 - Avaliação antropométrica
 - Metas nutricionais
 
-### Sistema do Dr. Fábio (Dentista - Próteses)
+### Sistema do Dr. Fábio Amaral (Dentista - Próteses)
 - ✨ **Exames e Moldes** - Upload de raios-X, fotos, moldes digitais
 - ✨ **Planejamento de Próteses** - Tipos, materiais, laboratórios, custos
 - ✨ **Acompanhamento Pós-Instalação** - Avaliação de conforto e funcionalidade

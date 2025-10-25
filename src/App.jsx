@@ -36,7 +36,7 @@ function LoginScreen() {
         <div className="text-center mb-8">
           <Smile className="w-16 h-16 mx-auto text-dental-600 mb-4" />
           <h1 className="text-3xl font-bold text-gray-800">Sistema Odontológico</h1>
-          <p className="text-gray-600 mt-2">Dr. Fábio Silva</p>
+          <p className="text-gray-600 mt-2">Dr. Fábio Amaral</p>
           <p className="text-gray-500 text-sm">CRO RJ 45678</p>
           <p className="text-gray-500 text-sm">Especialista em Próteses Dentárias</p>
         </div>
@@ -363,7 +363,7 @@ function MainApp() {
               <Smile className="w-8 h-8 text-dental-600" />
               <div>
                 <h1 className="text-2xl font-bold text-gray-800">Sistema Odontológico</h1>
-                <p className="text-sm text-gray-600">Dr. Fábio Silva - CRO RJ 45678</p>
+                <p className="text-sm text-gray-600">Dr. Fábio Amaral - CRO RJ 45678</p>
               </div>
             </div>
 

@@ -19,7 +19,7 @@ export const AuthProvider = ({ children }) => {
     fabio: {
       username: 'fabio',
       password: 'FABIO2024',
-      name: 'Dr. Fábio Silva',
+      name: 'Dr. Fábio Amaral',
       role: 'dentista',
       cro: 'RJ 45678'
     },

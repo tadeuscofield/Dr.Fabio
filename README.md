@@ -1,4 +1,4 @@
-# Sistema de Gestão Odontológica - Dr. Fábio Silva
+# Sistema de Gestão Odontológica - Dr. Fábio Amaral
 
 Sistema completo de gestão para clínica odontológica especializada em próteses dentárias.
 
@@ -180,5 +180,5 @@ Sistema desenvolvido para gestão profissional de clínicas odontológicas espec
 
 ---
 
-**Dr. Fábio Silva - CRO RJ 45678**
+**Dr. Fábio Amaral - CRO RJ 45678**
 *Especialista em Próteses Dentárias*

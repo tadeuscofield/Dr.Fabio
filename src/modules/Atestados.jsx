@@ -51,7 +51,7 @@ export default function Atestados({ pacienteId, pacienteNome }) {
     doc.text('ATESTADO ODONTOLÓGICO', 105, 30, { align: 'center' });
 
     doc.setFontSize(11);
-    doc.text('Dr. Fábio Silva - CRO RJ 45678', 105, 40, { align: 'center' });
+    doc.text('Dr. Fábio Amaral - CRO RJ 45678', 105, 40, { align: 'center' });
     doc.text('Especialista em Próteses Dentárias', 105, 46, { align: 'center' });
 
     let y = 70;
@@ -85,7 +85,7 @@ export default function Atestados({ pacienteId, pacienteNome }) {
     y += 20;
     doc.text('_________________________________', 105, y, { align: 'center' });
     y += 6;
-    doc.text('Dr. Fábio Silva', 105, y, { align: 'center' });
+    doc.text('Dr. Fábio Amaral', 105, y, { align: 'center' });
     y += 6;
     doc.text('CRO RJ 45678', 105, y, { align: 'center' });
 
